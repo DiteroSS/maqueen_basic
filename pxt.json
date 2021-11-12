@@ -1,5 +1,5 @@
 {
-    "name": "maqueen_remote_speed",
+    "name": "lights",
     "description": "",
     "dependencies": {
         "core": "*",
